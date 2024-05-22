@@ -18,10 +18,6 @@ This repository contains a simple JavaScript quiz application.
 
 * None
 
-**License:**
-
-(Optional: Add your preferred license here if applicable)
-
 **Contributing:**
 
-Feel free to submit pull requests with improvements or additional features.
+Feel free to submit pull requests with improvements, adding new questions or additional features.
